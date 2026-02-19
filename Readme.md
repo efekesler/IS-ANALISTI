@@ -82,10 +82,3 @@ AI analiz çıktısı:
 
 ---
 
-## 📦 Kurulum
-
-### 1️⃣ Repoyu Klonla
-
-```bash
-git clone https://github.com/kullaniciadi/satis-analiz-paneli.git
-cd satis-analiz-paneli
